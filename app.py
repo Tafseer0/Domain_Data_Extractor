@@ -296,8 +296,8 @@ def render_header():
     """Render sticky header"""
     st.markdown("""
     <div class="sticky-header">
-        <div class="main-title">MPA WHOIS Domain Lookup</div>
-        <div class="subtitle">This tool is built by the MPA Team for bulk domain analysis with advanced WHOIS data extraction.</div>
+        <div class="main-title">WHOIS Domain Lookup</div>
+        <div class="subtitle">This tool is built by the Tafseer Alam for bulk domain analysis with advanced WHOIS data extraction.</div>
     </div>
     """, unsafe_allow_html=True)
 
